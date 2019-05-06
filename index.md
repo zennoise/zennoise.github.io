@@ -1,6 +1,6 @@
 ## Zen noise
 
-Zen noise - it is a browser extension for relax.
+A browser extension for relaxing.
 
 ## Get extension
 
