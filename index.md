@@ -4,7 +4,7 @@ Zen noise - it is browser extension for relax.
 
 ## contacts
 
-[nullbsd@gmail.com](mailto:nullbsd@gmail.com) (email)
+[nullbsd@gmail.com](mailto:nullbsd@gmail.com) (email)<br>
 [@gnupg](http://t.me/gnupg) (telegram)
 
 ## source code
