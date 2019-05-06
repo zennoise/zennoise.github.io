@@ -8,7 +8,7 @@ Zen noise - it is a browser extension for relax.
 
 ## Source code
 
-[zennoise-chromium](https://github.com/zennoise/zennoise-chromium)
+[https://github.com/zennoise](https://github.com/zennoise)
 
 ## Contacts
 
