@@ -17,10 +17,10 @@ Zen noise - it is browser extension for relax.
 
 ## Donate
 
-[bitcoin]
-[1NYYFoJiRPnkmFbcv5kYLqwsweix1cVmBT](bitcoin:1NYYFoJiRPnkmFbcv5kYLqwsweix1cVmBT)
+[bitcoin]<br>
+`1NYYFoJiRPnkmFbcv5kYLqwsweix1cVmBT`
 
-[webmoney]
-WMZ: `Z156396869707`
-WMR: `R409106892241`
-WME: `E320058433666`
+[webmoney]<br>
+WMZ: `Z156396869707`<br>
+WMR: `R409106892241`<br>
+WME: `E320058433666`<br>
