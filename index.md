@@ -1,4 +1,4 @@
-<img src="img/logo.svg" />
+<img src="img/logo.svg" width="400"/>
 
 ## Zen noise
 
