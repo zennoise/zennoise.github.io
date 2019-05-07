@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="SGp13oZctv1n9bJk5JjOQ3klnrkt2wzcxu3DMM0QmIY">
+
 ## Zen noise
 
 A browser extension for relaxing.
