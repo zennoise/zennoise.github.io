@@ -38,6 +38,6 @@ WME: `E320058433666`<br>
 
 ### for sounds
 
-[https://freesound.org/people/RHumphries/sounds/2523/](https://freesound.org/people/RHumphries/sounds/2523/) (rain and thunder sound)<br>
-[https://freesound.org/people/acclivity/sounds/30832/](https://freesound.org/people/acclivity/sounds/30832/) (birds)<br>
-[https://freesound.org/people/mrmayo/sounds/351264/](https://freesound.org/people/mrmayo/sounds/351264/) (cafe)<br>
+[rain and thunder sound](https://freesound.org/people/RHumphries/sounds/2523/)<br>
+[birds](https://freesound.org/people/acclivity/sounds/30832/)<br>
+[cafe](https://freesound.org/people/mrmayo/sounds/351264/)<br>
