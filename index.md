@@ -1,8 +1,10 @@
-<img src="img/logo.svg" width="400"/>
+---
+layout: page
+---
 
 ## Zen noise
 
-A browser extension for relaxing.
+A browser extension for relaxing with nice background sounds (rain and thunder, birds, cafe).
 
 ## Get extension
 
@@ -16,15 +18,17 @@ A browser extension for relaxing.
 
 Did you find a mistake or have a suggestion? Write me, please!
 
-[nullbsd@gmail.com](mailto:nullbsd@gmail.com) (email)<br>
-[@gnupg](http://t.me/gnupg) (telegram)
+email: [nullbsd@gmail.com](mailto:nullbsd@gmail.com)<br>
+telegram: [@gnupg](http://t.me/gnupg)
 
 ## Donate
 
-[bitcoin]<br>
+### bitcoin
+
 `1NYYFoJiRPnkmFbcv5kYLqwsweix1cVmBT`
 
-[webmoney]<br>
+### webmoney
+
 WMZ: `Z156396869707`<br>
 WMR: `R409106892241`<br>
 WME: `E320058433666`<br>
@@ -32,7 +36,7 @@ WME: `E320058433666`<br>
 
 ## Thanks
 
-#### for sounds
+### for sounds
 
 [https://freesound.org/people/RHumphries/sounds/2523/](https://freesound.org/people/RHumphries/sounds/2523/) (rain and thunder sound)<br>
 [https://freesound.org/people/acclivity/sounds/30832/](https://freesound.org/people/acclivity/sounds/30832/) (birds)<br>
