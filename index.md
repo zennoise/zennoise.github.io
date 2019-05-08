@@ -23,6 +23,8 @@ telegram: [@gnupg](http://t.me/gnupg)
 
 ## Donate
 
+You can thank me, for example, a cup of coffee :)
+
 ### bitcoin
 
 `1NYYFoJiRPnkmFbcv5kYLqwsweix1cVmBT`
@@ -32,6 +34,10 @@ telegram: [@gnupg](http://t.me/gnupg)
 WMZ: `Z156396869707`<br>
 WMR: `R409106892241`<br>
 WME: `E320058433666`<br>
+
+### other currency?
+
+Please <a href="mailto:nullbsd@gmail.com">let me know</a> in which currency it is convenient for you to make a donation.
 
 
 ## Thanks
