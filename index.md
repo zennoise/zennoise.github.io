@@ -6,11 +6,11 @@ layout: page
 
 A browser extension for relaxing with nice background sounds (rain and thunder, birds, cafe).
 
-## Get extension
+## Get web-browser extension
 
 ...
 
-## Source code
+## Get source code
 
 [https://github.com/zennoise](https://github.com/zennoise)
 
