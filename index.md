@@ -4,7 +4,7 @@ layout: page
 
 ## Zen noise
 
-A browser extension for relaxing with nice background sounds (rain and thunder, birds, cafe).
+In the modern world it is very difficult to relax. This extension creates a pleasant background noise (rain and thunder, birds, cafe) for work or relaxation.
 
 ## Get web-browser extension
 
