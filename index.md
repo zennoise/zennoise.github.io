@@ -8,7 +8,7 @@ A browser extension for relaxing with nice background sounds (rain and thunder, 
 
 ## Get web-browser extension
 
-...
+[https://chrome.google.com/webstore/detail/zen-noise/gglenjeeebfkpaocofnmbpcaafihhgpo](https://chrome.google.com/webstore/detail/zen-noise/gglenjeeebfkpaocofnmbpcaafihhgpo)
 
 ## Get source code
 
