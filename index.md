@@ -12,7 +12,7 @@ In the modern world it is very difficult to relax. This extension creates a plea
 
 ## Get source code
 
-[https://github.com/zennoise](https://github.com/zennoise)
+[https://github.com/zennoise/zennoise-chromium](https://github.com/zennoise/zennoise-chromium)
 
 ## Screenshot
 
