@@ -17,4 +17,4 @@ Download extension for google chrome: [https://chrome.google.com/webstore/detail
 
 ### Quick review
 
-<iframe width="90%" height="315" src="https://www.youtube.com/embed/8tJ-FmPCgvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="98%" height="315" src="https://www.youtube.com/embed/8tJ-FmPCgvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
