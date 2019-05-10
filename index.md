@@ -20,7 +20,7 @@ In the modern world it is very difficult to relax. This extension creates a plea
 
 ## Quick review
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8tJ-FmPCgvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/8tJ-FmPCgvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Contacts
 <p id="contacts"></p>
