@@ -14,14 +14,23 @@ In the modern world it is very difficult to relax. This extension creates a plea
 
 [https://github.com/zennoise](https://github.com/zennoise)
 
-## Contacts
+## Screenshot
 
+<img width="90%" src="/assets/img/screenshot.png" />
+
+## Quick review
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8tJ-FmPCgvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Contacts
+<p id="contacts"></p>
 Did you find a mistake or have a suggestion? Write me, please!
 
 email: [nullbsd@gmail.com](mailto:nullbsd@gmail.com)<br>
 telegram: [@gnupg](http://t.me/gnupg)
 
 ## Donate
+<p id="donate"></p>
 
 You can thank me, for example, a cup of coffee :)
 
